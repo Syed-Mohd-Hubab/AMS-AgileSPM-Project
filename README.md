@@ -1,11 +1,14 @@
-# HMS-AgileSPM-Project
-Repository for the Agile Software Project Management course
+# AMS-AgileSPM-Project
 
-Team Name: swagdevelopers
+Repository for the Agile Software Project Management semester project.
 
-Team Members:
-- Abdul Hanan
-- Ali Azlan
-- Syed Hubab
-- Mohammed Usman
-- Shaharyar Amjad
+**Project:** An appointment management system for healthcare. 
+
+**Scrum Team name:** SHUA Developers
+
+**Team Members:**
+1. Syed Hubab - Product Owner
+2. Usman Umer - Scrum Master
+3. Ali Azlan - Developer
+4. Shaharyar Amjad - Developer
+5. Abdul Hanan - Developer
