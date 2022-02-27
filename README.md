@@ -4,9 +4,9 @@ Repository for the Agile Software Project Management semester project.
 
 **Project:** An appointment management system for healthcare. 
 
-**Scrum Team name:** SHUA Developers
+**SCRUM Team name:** SHUA Developers
 
-**Team Members:**
+**SCRUM Teammates:**
 1. Syed Hubab - Product Owner
 2. Usman Umer - Scrum Master
 3. Ali Azlan - Developer
